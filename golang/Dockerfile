@@ -3,3 +3,4 @@ MAINTAINER Maxime Horcholle <maxime.horcholle@gmail.com>
 
 RUN go get gopkg.in/mgo.v2
 RUN go get github.com/garyburd/redigo/redis
+RUN go get github.com/spf13/viper
