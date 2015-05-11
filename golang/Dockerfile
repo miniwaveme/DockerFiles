@@ -6,3 +6,4 @@ RUN go get github.com/garyburd/redigo/redis
 RUN go get github.com/spf13/viper
 RUN go get github.com/julienschmidt/httprouter
 RUN go get github.com/nfnt/resize
+RUN go get github.com/Sirupsen/logrus
