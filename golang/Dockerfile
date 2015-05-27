@@ -7,3 +7,4 @@ RUN go get github.com/spf13/viper
 RUN go get github.com/julienschmidt/httprouter
 RUN go get github.com/nfnt/resize
 RUN go get github.com/Sirupsen/logrus
+RUN go get github.com/asaskevich/govalidator
