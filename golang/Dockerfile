@@ -8,3 +8,4 @@ RUN go get github.com/julienschmidt/httprouter
 RUN go get github.com/nfnt/resize
 RUN go get github.com/Sirupsen/logrus
 RUN go get github.com/asaskevich/govalidator
+RUN go get gopkg.in/olivere/elastic.v2
