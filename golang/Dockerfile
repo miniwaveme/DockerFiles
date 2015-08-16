@@ -11,3 +11,4 @@ RUN go get github.com/asaskevich/govalidator
 RUN go get gopkg.in/olivere/elastic.v2
 RUN go get github.com/codegangsta/cli
 RUN go get github.com/fatih/color
+RUN go get github.com/satori/go.uuid
